@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+
+# OS specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Scratch / build files
+inspect_project.py
+project_text_dump.txt
+test_times.pdf
+reportlab_test.pdf
+test.pdf
+Student_work_file (1).ipynb
+Rahul_Singh_Resume.pdf
+Rahul_Singh_Resume.html
+generate_resume_pdf.py
